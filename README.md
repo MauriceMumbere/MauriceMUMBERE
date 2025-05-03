@@ -29,8 +29,8 @@ I combine frontend and backend development with a strong sense for UI/UX design 
 
 ## 📫 Contact Me
 
-- 📄 [MauriceMumbere](www.linkedin.com/in/maurice-mumbere-0b5148271)  
-- ✉️ [mauricendayango@gmail.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/maurice-mumbere-0b5148271/)
+- [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricendayango@gmail.com) 
 
 
 Thanks for visiting my profile! 🚀
