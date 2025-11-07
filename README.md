@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maurice Mumbere!
 
 🎯 **Fullstack Web Developer**  
-💻 Vue.js | AdonisJS | Tailwind CSS  
+💻 Nuxt | Flutter | AdonisJS 
 🎨 UI/UX Designer
 
 
