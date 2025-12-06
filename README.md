@@ -1,37 +1,39 @@
-# 👋 Hello, I'm Maurice Mumbere!
+<h1 align="center">👋 Hello, I'm <strong>Maurice Mumbere</strong></h1>
+<h3 align="center">Fullstack Web & Mobile Developer • UI/UX Designer</h3>
 
-🎯 **Fullstack Web Developer**  
-💻 Nuxt | Flutter | AdonisJS 
-🎨 UI/UX Designer
+<p align="center">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-44D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" />
+</p>
 
-
+---
 
 ## 👨‍💻 About Me
 
-I'm a fullstack web developer passionate about building modern, performant, and user-centered web applications.  
-I combine frontend and backend development with a strong sense for UI/UX design to deliver intuitive and responsive user experiences.
+I'm a **fullstack web and mobile developer** passionate about building **modern**, **performant**, and **user-centered** applications.  
+I combine clean frontend architecture with strong backend logic and thoughtful UI/UX design to craft intuitive, responsive, and cross-platform digital experiences.
 
+✨ Specialized in **Nuxt**, **AdonisJS**, **Flutter**, and **Tailwind CSS**  
+🌱 Always exploring new technologies  
+🎨 Deep interest in product design & UX thinking  
+
+---
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;&nbsp;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,adonis,flutter,tailwind,ts,postgres,figma,git,github" />
 </p>
 
+---
 
 ## 📫 Contact Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurice-mumbere-0b5148271/)
-- [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricendayango@gmail.com) 
+- [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricendayango@gmail.com)
 
+---
 
-Thanks for visiting my profile! 🚀
+<p align="center">⭐ Thanks for visiting my profile! 🚀</p>
 
