@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm <strong>Maurice Mumbere</strong></h1>
-<h3 align="center">Fullstack Web & Mobile Developer • UI/UX Designer</h3>
+<h3 align="center">Web & Mobile Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
